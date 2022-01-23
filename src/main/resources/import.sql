@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Charity Dudding', '57170288141', 1079.9, '1971-07-04T04:10:51Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Tiffani Sherrington', '87671337625', 1704.53, '1991-11-15T12:25:08Z', 6);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Cori Softley', '33702064206', 2745.8, '1983-03-02T00:45:53Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Shara Lineen', '35604775657', 2960.81, '1974-04-17T05:58:07Z', 6);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Oberon Thaxter', '02308030593', 922.6, '1981-05-03T02:53:56Z', 5);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Derril Dallaway', '10377534102', 2664.51, '1989-05-21T04:59:45Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Farris Gepp', '28127363561', 3154.46, '1987-04-12T04:25:27Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Fredek Temple', '82123860409', 1387.61, '1970-08-22T07:47:49Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Hakim Peabody', '60114178682', 1478.56, '1995-10-28T13:30:35Z', 6);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Taite Torald', '50144745860', 2071.21, '1978-08-14T03:21:00Z', 4);
